@@ -6,14 +6,14 @@ The notebook demonstrates data preprocessing, exploratory data analysis (EDA), m
 
 ## Group 10 members
 
-  John Peter Nuwagaba
-	Imenyo Emillie Natalie
-	Bridget Evelyn Masaba
-	Patience Burani
-	Ritah Natukwatsa
-	Winifred Nakawunde 
-	Charlotte Murungi
-	Atubo Ellian Chelsea
+-John Peter Nuwagaba
+-Imenyo Emillie Natalie
+-Bridget Evelyn Masaba
+-Patience Burani
+-Ritah Natukwatsa
+-Winifred Nakawunde 
+-Charlotte Murungi
+-Atubo Ellian Chelsea
  
 
 ## Dataset
