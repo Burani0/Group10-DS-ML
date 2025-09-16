@@ -26,7 +26,7 @@ The dataset used in this project contains patient health records with attributes
 - Smoking status  
 - Stroke occurrence (target variable)
 
-The dataset is typically obtained from publicly available stroke prediction datasets (e.g., Kaggle).  
+The dataset is typically obtained from publicly available stroke prediction datasets .  
 
 
 ## Methodology
@@ -41,9 +41,9 @@ The dataset is typically obtained from publicly available stroke prediction data
    - Examined stroke prevalence across different demographic groups.  
 
 3. **Model Training**  
-   - Applied machine learning algorithms (e.g., Logistic Regression, Random Forest, Decision Tree, SVM).  
+   - Applied machine learning algorithms (e.g., Logistic Regression, Random Forest, Decision Tree,).  
    - Performed train-test split to validate models.  
-   - Balanced the dataset using resampling techniques to handle class imbalance.  
+   - Balanced the dataset to handle class imbalance.  
 
 4. **Model Evaluation**  
    - Evaluated models using accuracy, precision, recall, F1-score, and confusion matrices.  
